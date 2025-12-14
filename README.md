@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Manoharkonda -  👋
+*Frontend Developer* — 
 
-<!--
-**Manoharkonda-24/Manoharkonda-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current project: *ToDO APP* 
+✅ I write tests with pytest and use GitHub Actions (CI)
+🌱 Learning: caching, async, system design basics
+🌐 LinkedIn:  https://www.linkedin.com/in/manohar-konda-b8b027259
 
-Here are some ideas to get you started:
+Tech
+Python, Reactjs, JavaScript, HTML/CSS, SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects (Pinned below)
+1. Apple website
+2. youtube ade page 
+
